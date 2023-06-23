@@ -1,7 +1,7 @@
 # student_records
 with a SQL database included.
 
-> This document provides an overview of the system and its functionalities. The system is designed to manage student accounts, record student performance, and allow users with appropriate access to perform various actions such as adding or editing student accounts and records.
+> This repository contains a system for managing student accounts and recording student performance. It provides various functionalities for users with appropriate access, such as adding or editing student accounts and records.
 
 # User Roles
 *	Professor (admin)
